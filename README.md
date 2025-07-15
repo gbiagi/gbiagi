@@ -6,6 +6,8 @@
 - :school: I am a `Junior Developer` recently graduated at [INS Esteve Terradas i Illa](https://www.iesesteveterradas.cat/) in [Desarrollo de Aplicaciones Multiplataforma (DAM)](https://agora.xtec.cat/iesesteveterradas/wp-content/uploads/usu855/inf_desenvol-aplic-multplataf.pdf)
 - :technologist: You can visit [my portfolio](https://gbiagi.github.io) to see my projects
 - 🔄: I recently changed paths in my career after working as an industrial electrician for some years⚡
+##
+![gbiagi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gbiagi&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Skills 
 <h3 align="left">Languages and Tools:</h3>
