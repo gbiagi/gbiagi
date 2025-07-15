@@ -7,7 +7,7 @@
 - :technologist: You can visit [my portfolio](https://gbiagi.github.io) to see my projects
 - 🔄: I recently changed paths in my career after working as an industrial electrician for some years⚡
 
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:geanfrancobiagi@hotmail.com)
+- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=gbiagi&amp;color=EA4335&amp;style=flat-square)](mailto:geanfrancobiagi@hotmail.com)
 
 
 
